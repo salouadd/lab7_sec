@@ -47,6 +47,8 @@ Le tableau de bord fournit plusieurs informations importantes, notamment :
 * les composants exportés de l’application (Activities, Services, Content Providers), qui constituent une surface d’attaque potentielle.
 
 ### Analyse Statique MobSF
+<img width="2937" height="827" alt="1" src="https://github.com/user-attachments/assets/757f9ae3-4436-4632-a784-73a187361a15" />
+
 
 ---
 
@@ -63,5 +65,6 @@ L’interface d’analyse dynamique permet notamment de :
   * le SSL Pinning ;
   * la détection du root ;
 * monitorer les appels API et les comportements de l’application en temps réel.
+<img width="3827" height="1860" alt="2" src="https://github.com/user-attachments/assets/447be3f0-ee81-4bb9-8a7a-3ebefd15f1ae" />
 
 
